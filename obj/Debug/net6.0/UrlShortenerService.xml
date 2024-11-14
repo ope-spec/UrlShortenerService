@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UrlShortenerService</name>
+    </assembly>
+    <members>
+        <member name="T:UrlShortenerService.Controllers.UrlShortenerController">
+            <summary>
+            Controller to handle URL shortening and redirection.
+            </summary>
+        </member>
+        <member name="M:UrlShortenerService.Controllers.UrlShortenerController.#ctor(UrlShortenerService.Models.UrlShortenerContext)">
+            <summary>
+            Initializes a new instance of the UrlShortenerController with the given context.
+            </summary>
+            <param name="context">The database context for accessing URL mappings.</param>
+        </member>
+        <member name="M:UrlShortenerService.Controllers.UrlShortenerController.ShortenUrl(UrlShortenerService.Models.UrlShortenRequest)">
+            <summary>
+            Creates a shortened URL for the given original URL.
+            </summary>
+            <param name="request">The request object containing the original URL to shorten.</param>
+            <returns>The shortened URL if successful; otherwise, an error response.</returns>
+            <remarks>
+            If the original URL already has a corresponding short URL, this endpoint returns the existing short URL.
+            Otherwise, a new short URL is generated, saved to the database, and returned.
+            </remarks>
+        </member>
+        <member name="M:UrlShortenerService.Controllers.UrlShortenerController.RedirectToUrl(System.String)">
+            <summary>
+            Redirects to the original URL associated with the given short URL.
+            </summary>
+            <param name="shortUrl">The shortened URL code.</param>
+            <returns>A redirection to the original URL if found; otherwise, a 404 error.</returns>
+            <remarks>
+            This endpoint searches for a mapping that matches the provided short URL. If found, it redirects
+            the user to the original URL. If not found, it returns a 404 response.
+            </remarks>
+        </member>
+        <member name="M:UrlShortenerService.Controllers.UrlShortenerController.GenerateShortUrl">
+            <summary>
+            Generates a random 6-character short URL code.
+            </summary>
+            <returns>A 6-character string representing the short URL.</returns>
+            <remarks>
+            This method uses a random selection of alphanumeric characters to create a short URL code. 
+            It checks for uniqueness within the `ShortenUrl` method to avoid collisions.
+            </remarks>
+        </member>
+    </members>
+</doc>

@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\migrations\\20241031123048_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:migrations\\20241031123048_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\models\\urlshortenercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:models\\urlshortenercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\models\\urlshortenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:models\\urlshortenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\models\\urlshortenercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:models\\urlshortenercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\urlshortenerservice\\models\\urlmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB4E93B-C5AE-4290-B584-2E078F0FEEC7}|UrlShortenerService.csproj|solutionrelative:models\\urlmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,103 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241031123048_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Migrations\\20241031123048_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241031123048_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Migrations\\20241031123048_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20241031123048_InitialCreate.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:30:48.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UrlShortenerContext.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenerContext.cs",
-              "RelativeDocumentMoniker": "Models\\UrlShortenerContext.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenerContext.cs",
-              "RelativeToolTip": "Models\\UrlShortenerContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:55:06.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UrlShortenRequest.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenRequest.cs",
-              "RelativeDocumentMoniker": "Models\\UrlShortenRequest.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenRequest.cs",
-              "RelativeToolTip": "Models\\UrlShortenRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:19:29.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UrlShortenerController.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Controllers\\UrlShortenerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UrlShortenerController.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Controllers\\UrlShortenerController.cs",
-              "RelativeToolTip": "Controllers\\UrlShortenerController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAqwDcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:59:12.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T11:53:29.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UrlShortenerContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenerContextFactory.cs",
-              "RelativeDocumentMoniker": "Models\\UrlShortenerContextFactory.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlShortenerContextFactory.cs",
-              "RelativeToolTip": "Models\\UrlShortenerContextFactory.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:09:45.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:57:38.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UrlMapping.cs",
-              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlMapping.cs",
-              "RelativeDocumentMoniker": "Models\\UrlMapping.cs",
-              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\UrlShortenerService\\Models\\UrlMapping.cs",
-              "RelativeToolTip": "Models\\UrlMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:55:36.074Z"
             }
           ]
         }

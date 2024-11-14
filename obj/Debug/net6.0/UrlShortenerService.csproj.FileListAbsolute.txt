@@ -58,3 +58,6 @@ C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\refin
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\UrlShortenerService.pdb
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\UrlShortenerService.genruntimeconfig.cache
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\ref\UrlShortenerService.dll
+C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\bin\Debug\net6.0\UrlShortenerService.xml
+C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\UrlShortenerService.sourcelink.json
+C:\Users\OpeyemiOgunniyi\Desktop\A\C#\UrlShortenerService\obj\Debug\net6.0\UrlShortenerService.xml
